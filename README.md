@@ -1,11 +1,5 @@
 # Apex Sigma: The Database Giant
 
-<div align="center">
-  <a href="https://luciascipher.com/">
-    <img src="https://i.imgur.com/O5832Le.png" alt="Sigma Banner">
-  </a>
-</div>
-
 ## About
 
 **Apex Sigma** was created to connect to as many API endpoints as possible to bring you large amounts of data you might
