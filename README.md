@@ -6,10 +6,6 @@
   </a>
 </div>
 
-## Community
-
-[![Discord Banner](https://discordapp.com/api/guilds/200751504175398912/widget.png?style=banner2)](https://discord.gg/aEUCHwX)
-
 ## About
 
 **Apex Sigma** was created to connect to as many API endpoints as possible to bring you large amounts of data you might
